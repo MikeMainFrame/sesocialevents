@@ -1,0 +1,163 @@
+body {
+  font-family: "Merriweather", sans-serif;
+  background-image: url(https://storage.googleapis.com/sesocial_event_static/sePetitKranse.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  object-fit: contain;
+  font-size: 1vw;
+  margin: 0;
+}
+h1 {
+  color: #fff;
+  background-color: #800;
+  font-size: 4vw;
+  font-weight: 100;
+  letter-spacing: 1vw;
+  line-height: 6vw;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Open Sans", sans-serif;
+}
+h2 {
+  font-size: 3vw;
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+h3 {
+  margin: 0;
+  margin-top: -1vw;
+  padding-bottom: 1vw;
+  border-radius: 1vw;
+  font-size: 2.5vw;
+  line-height: 4vw;
+  font-weight: 100;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  background: rgba(16, 16, 16, 0.1);
+}
+h4 {
+  font-size: 2.5vw;
+  line-height: 3.75vw;  
+  margin-top: 1vw;
+  margin-bottom: 4vw;
+  font-weight: 900;
+  letter-spacing: 1.25vw;
+  text-transform: uppercase;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+h5 {
+  font-size: 1.5vw;
+  line-height: 4vw;
+  font-weight: 100;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: normal;
+}
+p {
+  color: #fff;
+  text-align: left;
+  font-size: 2.5vw;
+  line-height: 3.75vw;
+  height: 33vw;
+  margin: 0;
+  padding: 0 2vw;
+  font-weight: 100;
+  font-family: "Merriweather", sans-serif;
+}
+span {
+  font-size: 2vw;
+  width: 11vw;
+  color: #800;
+  padding: 0 1vw;
+}
+img {
+  width: 100%;
+  margin: 0;
+  border-radius: 2vw;
+  vertical-align: top;
+  object-fit: contain;
+  float: left;
+}
+ul {
+  float: left;
+  margin: 0;
+}
+li {
+  color: white;
+  margin-left: 1vw;
+  font-size: 1.5vw;
+  line-height: 2.5vw;
+  text-align: left;
+}
+.column {
+  min-width: 400px;
+  width: 100%;
+  margin: 0;
+  float: left;
+  background: rgba(16, 16, 16, 0.1);
+}
+.twoColumn {
+  width: 48%;
+  float: left;
+  padding-left: 1vw;
+  margin: 0;
+}
+.oneLine {
+  text-align: center;
+  background-color: rgba(16, 16, 16, 0.5);
+  padding: 3vw;
+  float: left;
+  border-bottom: solid 16px #880000a0
+}
+.bf {
+  float: left;
+  width: 10vw;
+}
+#zCalendar {
+  overflow: auto;
+  white-space: nowrap;
+  clear: both;
+  width: 100%;
+}
+#sleeve {
+  background: rgba(16, 16, 16, 0.1);
+}
+#mask {
+  margin: 1vw 5vw;
+  padding: 0 4vw;
+  text-align: center;
+}
+#heading {
+  letter-spacing: 0.5vw;
+  line-height: 200%;
+  font-weight: 900;
+  color: white;
+  font-size: 4vw;
+}
+#salesPitch {
+  color: white;
+  white-space: pre-wrap;
+  line-height: 5vw;
+  text-align: center;
+  font-family: "Merriweather", sans-serif;
+}
+#phone {
+  border-radius: 1vw;
+  line-height: 9vw;
+  font-size: 9vw;
+  height: 11vw;
+  color: white;
+  background-color: rgba(16, 16, 16, 0.3);
+}
+#phoneX {
+  float: none;
+  width: auto;
+  height: 100%;
+  border: none;
+}
